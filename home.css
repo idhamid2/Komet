@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0%;
+}
+
+
+#form{
+    height: 10%;
+    width:100%; 
+    margin: 0%;
+    padding: 0%;
+
+}
+
+#map{
+    height: 90%;
+    width:100%;
+}
+
+#dateSection{
+    padding: 2%;
+}
